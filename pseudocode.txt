@@ -1,0 +1,16 @@
+Todo-list web
+
+Deklarasi:
+
+taskList, addTaskInput : String;
+clearAllTask: int;
+
+deskripsi:
+
+Read(addTaskInput);
+Write(taskList);
+
+Click(clearAllTask);
+Write(null);
+
+End;
